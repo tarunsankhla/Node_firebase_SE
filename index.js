@@ -26,13 +26,13 @@ var jsonParser = bodyParser.json()
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCUd9iMVAg0I9IDACb1RH0ZJhc9hSBc13Y",
-    authDomain: "fir-phone-number-bd868.firebaseapp.com",
-    projectId: "fir-phone-number-bd868",
-    storageBucket: "fir-phone-number-bd868.appspot.com",
-    messagingSenderId: "344910745684",
-    appId: "1:344910745684:web:a21c4940819a5266da9dc1",
-    measurementId: "G-7JEPMVHTVW"
+    apiKey: "your own api key",
+    authDomain: "your own authDomain",
+    projectId: "your own projectIdy",
+    storageBucket: "your own api key",
+    messagingSenderId: "your own messagingSenderId",
+    appId: "your own api id",
+    measurementId: "your own api measurementId"
 };
 
 // Initialize Firebase
